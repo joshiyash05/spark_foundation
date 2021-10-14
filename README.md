@@ -3,4 +3,6 @@
 # Hope you like it
 # Thanks for visting
 # you can find me on : 
+[1.1]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white (LinkedIn icon without padding)
+
 [1]: https://www.linkedin.com//
