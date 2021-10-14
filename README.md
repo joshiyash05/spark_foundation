@@ -3,4 +3,4 @@
 # Hope you like it
 # Thanks for visting
 # you can find me on : 
-[1]: https://www.linkedin.com//in/yash-joshi-3444a420b
+[1]: https://www.linkedin.com//
